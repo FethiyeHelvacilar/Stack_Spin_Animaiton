@@ -16,7 +16,7 @@ Simple, customizable script for easy tweaks to the effect.
 How to Use:
 Open Blender and go to the Scripting tab.
 
-Copy and paste the script into a new Python file.
+Copy from the Stack_Spin_Animation.py file and paste the script into a new Python file in Blender.
 
 Run the script to generate and animate the stacked prisms.
 
